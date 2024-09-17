@@ -1,13 +1,17 @@
 # Contributor Covenant Code of Conduct
 
+Nibbles and Mlems LLC values the health and well-being of our people, our animals, and our world above all else. Our mission is to provide a safe, healthy, and nurturing environment for every animal. We uphold transparent practices, value ongoing education, and strive to foster positive relationships with both our animals and the wider community. This commitment to ethics and responsible breeding is core to who we are, and we believe that it should extend to all interactions within our community.
+
+This Code of Conduct outlines the standards we expect from contributors to ensure that our shared values are reflected in our collaborations, discussions, and actions. By participating, you help us maintain a positive and welcoming environment for all.
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+nationality, personal appearance, race, religion, sexual identity
+and orientation, or preference between cats and dogs.
 
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community. We encourage

@@ -27,6 +27,7 @@ body:
       multiple: true
       options:
         - Windows
+        - Linux (include distribution in Additional Context)
         - Mac
         - Android
         - iOS
